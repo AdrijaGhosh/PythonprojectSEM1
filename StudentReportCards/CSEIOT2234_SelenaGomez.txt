@@ -1,0 +1,18 @@
+ Student Name : Selena Gomez 
+ Class Roll-number: 34 
+ Stream : CSEIOT 
+ Student ID : CSEIOT2234
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 88 
+ Physics :- 96 
+ Electrical :- 75 
+ Mechanics :- 35 
+ PythonProgramming :- 67 
+ Biology :- 29 
+
+Total marks out of 600 is : 444 and Percentage scored is : 74%
+Your Performance has been Very Good...
+ Grade obtained is :- C.

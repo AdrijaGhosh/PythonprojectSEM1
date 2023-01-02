@@ -1,0 +1,18 @@
+ Student Name : Adi Ghosh 
+ Class Roll-number: 67 
+ Stream : CSEAIML 
+ Student ID : CSEAIML2267
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 67 
+ Physics :- 78 
+ Electrical :- 68 
+ Mechanics :- 69 
+ PythonProgramming :- 78 
+ Biology :- 70 
+
+Total marks out of 600 is : 505 and Percentage scored is : 84%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.

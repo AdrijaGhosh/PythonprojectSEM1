@@ -1,0 +1,18 @@
+ Student Name : Cindrella Sen 
+ Class Roll-number: 33 
+ Stream : CSEIOT 
+ Student ID : CSEIOT2233
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 88 
+ Physics :- 88 
+ Electrical :- 88 
+ Mechanics :- 88 
+ PythonProgramming :- 88 
+ Biology :- 77 
+
+Total marks out of 600 is : 605 and Percentage scored is : 100%
+Your Performance has been Outstanding ...
+ Grade obtained is :- A.

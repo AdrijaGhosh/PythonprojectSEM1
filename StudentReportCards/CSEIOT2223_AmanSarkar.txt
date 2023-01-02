@@ -1,0 +1,18 @@
+ Student Name : Aman Sarkar 
+ Class Roll-number: 23 
+ Stream : CSEIOT 
+ Student ID : CSEIOT2223
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 99 
+ Physics :- 88 
+ Electrical :- 66 
+ Mechanics :- 99 
+ PythonProgramming :- 87 
+ Biology :- 0 
+
+Total marks out of 600 is : 516 and Percentage scored is : 86%
+Your Performance has been Excellent...
+ Grade Obtained is :- B.

@@ -1,0 +1,18 @@
+ Student Name : Bella Hadid 
+ Class Roll-number: 76 
+ Stream : CSEAIML 
+ Student ID : CSEAIML2276
+
+
+ Marks obtained in the Following subjects are
+ ->-->-->-->-->-->-->-->-->-->-->-->-->-->-->-
+ Mathematics :- 55 
+ Physics :- 44 
+ Electrical :- 66 
+ Mechanics :- 12 
+ PythonProgramming :- 97 
+ Biology :- 50 
+
+Total marks out of 600 is : 357 and Percentage scored is : 59%
+Your performance is Average and just have been Passed...
+Grade Obtained is :- E.
